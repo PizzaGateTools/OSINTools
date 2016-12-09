@@ -10,3 +10,4 @@ A repository of tools to help with the PizzaGate investigation
 ###Place screenshot.py into /usr/lib/python2.7 as it's a class 
 ###imported into pgate_screenshot.
 ###usage: python pgate_screenshot.py and follow the prompts.
+###When asked for the url, enter it without 'http' or 'https'. (ex:'google.com')
